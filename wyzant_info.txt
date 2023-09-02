@@ -1,0 +1,7 @@
+{
+  "USERNAME" : ,
+"PASSWORD" : ,
+"WYZANT_HANDLE" : <Your handle on Wyzant (What students see your name as; Usually: <First Name> <Last Initial>.)>,
+"WANT_TO_APPLY_LIST" : [<List of subjects>],
+"RECENCY" : <max days to look back in time>
+}
